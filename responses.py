@@ -8,8 +8,8 @@ centro_paula_souza_response = (r"O Centro Paula Souza (CPS) é uma autarquia do 
 saudacao_response_resume = r"Olá"
 
 saudacao_response_complete = ("Seja bem-vindo ao Chat Bot Fatec - Ribeirão Preto."
-                              "Aqui você pode esclarecer todas as suas dúvidas sobre a Fatec.\n "
-                              "Para utilizar o Chat Bot, basta inserir sua dúvida de forma simplificada.\n"
+                              "Aqui você pode esclarecer todas as suas dúvidas sobre a Fatec.\n\n"
+                              "Para utilizar o Chat Bot, basta inserir sua dúvida de forma simplificada."
                               "Por exemplo, para saber a quantidade de faltas permitidas em uma matéria, "
                               "digite: \"Faltas.\"\n"
                               "Isso é suficiente para que o Chat Bot responda a sua pergunta.")
